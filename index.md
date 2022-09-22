@@ -19,7 +19,7 @@ There may be constraints between inclusion of specific modules –
 e.g., a search button can be included only if a search module is included.
 However, the inclusion of one module never(?) prevents the inclusion of other modules .
 (It may be helpful to make a feature diagram of the module inclusions,
-and .)
+and use some tooling to generate all possible layouts.)
 
 A minimal layout is obtained by omitting all conditionally-included modules,
 leaving only the main content.
