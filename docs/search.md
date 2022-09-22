@@ -1,6 +1,7 @@
 ---
 title: Search
 parent: Main header
+grand_parent: Main
 nav_order: 1
 ---
 
@@ -9,7 +10,7 @@ nav_order: 1
 ```html
 {% raw %}
 {% capture search_placeholder %}
-  {% include custom/search_placeholder.html %}
+  {% include? custom/search_placeholder.html %}
 {% endcapture %}
 <div class="search">
   <div>

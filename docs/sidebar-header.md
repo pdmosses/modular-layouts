@@ -9,8 +9,8 @@ nav_order: 1
 ```html
 {% raw %}
 <header>
-    {% include custom/title.html %}
-    {% include custom/logo.html %}
+    {% include? custom/title.html %}
+    {% include? custom/logo.html %}
 </header>
 {% endraw %}
 ```

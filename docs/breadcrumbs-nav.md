@@ -1,6 +1,7 @@
 ---
 title: Breadcrumbs nav
-nav_order: 4
+parent: Main
+nav_order: 2
 ---
 
 # breadcrumbs-nav.html

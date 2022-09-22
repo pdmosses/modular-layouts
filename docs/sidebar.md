@@ -9,9 +9,9 @@ nav_order: 2
 ```html
 {% raw %}
 <div class="sidebar">
-  {% include sidebar-header.html %}
-  {% include sidebar-nav.html %}
-  {% include sidebar-footer.html %}
+  {% include? sidebar-header.html %}
+  {% include? sidebar-nav.html %}
+  {% include? sidebar-footer.html %}
 </div>
 {% endraw %}
 ```

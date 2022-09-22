@@ -1,6 +1,7 @@
 ---
 title: Children nav
-nav_order: 5
+parent: Main
+nav_order: 3
 ---
 
 # children-nav.html

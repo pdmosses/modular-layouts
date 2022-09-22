@@ -9,8 +9,8 @@ nav_order: 2
 ```html
 {% raw %}
 <nav>
-    {% include nav.html %}
-    {% include custom/nav.html %}
+    {% include? nav.html %}
+    {% include? custom/nav.html %}
 </nav>
 {% endraw %}
 ```

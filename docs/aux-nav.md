@@ -1,6 +1,7 @@
 ---
 title: Aux nav
 parent: Main header
+grand_parent: Main
 nav_order: 2
 ---
 
