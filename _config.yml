@@ -1,0 +1,12 @@
+title: Modular Layouts
+url: https://pdmosses.github.io
+baseurl: /modular-layouts
+remote_theme: just-the-docs/just-the-docs
+plugins:
+  - jekyll-remote-theme
+  - jekyll-default-layout
+aux_links:
+  My website on GitHub:
+    - //github.com/pdmosses/modular-layouts
+permalink: pretty
+ 
